@@ -1,0 +1,26 @@
+payload:
+  - GEOSITE,mega
+  - GEOSITE,youtube
+  - GEOSITE,category-container
+  - DOMAIN-SUFFIX,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,imgg.dev
+  - DOMAIN-SUFFIX,maa-ota.annangela.cn
+  - DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,bilibili.tv
+  - DOMAIN-SUFFIX,mius.uk
+  - DOMAIN-SUFFIX,123456.al
+  - DOMAIN-SUFFIX,i.pximg.net
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,cdn.ubi.com
+  - DOMAIN-SUFFIX,registry.npmjs.org
+  - DOMAIN-SUFFIX,civitai.com
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,cloudflarestorage.com
+  - DOMAIN-SUFFIX,bangumi.ca
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,unexceptionalfox.com
+  - DOMAIN-SUFFIX,dropboxusercontent.com
+  - DOMAIN-SUFFIX,download.prss.microsoft.com
+  - DOMAIN-SUFFIX,code.visualstudio.com
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,download.microsoft.com

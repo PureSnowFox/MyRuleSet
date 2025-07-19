@@ -1,0 +1,25 @@
+payload:
+  - GEOSITE,openai
+  - GEOSITE,bing
+  - GEOSITE,msn
+  - GEOSITE,yahoo
+  - GEOSITE,github
+  - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,redotpay.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,ipaddresss.com
+  - DOMAIN-SUFFIX,groq.com
+  - DOMAIN-SUFFIX,onedrive.live.com
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
+  - DOMAIN-SUFFIX,ipaddress.com
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,recaptcha.net
+  - DOMAIN-SUFFIX,coze.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,kemono.party
