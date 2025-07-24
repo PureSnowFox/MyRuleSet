@@ -13,7 +13,7 @@ payload:
   - GEOSITE,category-games@cn
   - GEOSITE,category-game-platforms-download
   - GEOSITE,category-game-accelerator-cn
-  - GEOSITE,steam
+  - GEOSITE,steam@cn
   - DOMAIN-REGEX,^stun.*
   - DOMAIN-REGEX,mtalk+.google.com
   - DOMAIN-SUFFIX,seayoo.io

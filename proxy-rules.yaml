@@ -5,6 +5,7 @@ payload:
   - GEOSITE,msn
   - GEOSITE,yahoo
   - GEOSITE,github
+  - GEOIP,telegram,no-resolve
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,redotpay.com
   - DOMAIN-SUFFIX,steamstatic.com
@@ -24,4 +25,3 @@ payload:
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,kemono.party
-  - GEOIP,telegram,no-resolve
