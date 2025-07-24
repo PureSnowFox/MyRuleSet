@@ -1,4 +1,5 @@
 payload:
+  - GEOSITE,gfw
   - GEOSITE,openai
   - GEOSITE,bing
   - GEOSITE,msn
