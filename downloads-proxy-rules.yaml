@@ -1,6 +1,7 @@
 payload:
   - GEOSITE,mega
   - GEOSITE,youtube
+  - GEOSITE,java
   - GEOSITE,category-container
   - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-SUFFIX,imgg.dev
