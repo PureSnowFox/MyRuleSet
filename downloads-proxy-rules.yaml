@@ -4,6 +4,7 @@ payload:
   - GEOSITE,java
   - GEOSITE,category-container
   - DOMAIN-SUFFIX,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,nixos.org
   - DOMAIN-SUFFIX,imgg.dev
   - DOMAIN-SUFFIX,maa-ota.annangela.cn
   - DOMAIN-SUFFIX,bilibili.tv
