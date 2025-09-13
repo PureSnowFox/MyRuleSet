@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,ipaddress.com
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,recaptcha.net
+  - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,coze.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,googleapis.com

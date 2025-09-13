@@ -18,6 +18,8 @@ payload:
   - DOMAIN-REGEX,mtalk+.google.com
   - DOMAIN-SUFFIX,seayoo.io
   - DOMAIN-SUFFIX,seayoo.com
+  - DOMAIN-SUFFIX,he.net
+  - DOMAIN-SUFFIX,tunnelbroker.net
   - DOMAIN-SUFFIX,maa.plus
   - DOMAIN-SUFFIX,zoot.plus
   - DOMAIN-SUFFIX,prts.plus
