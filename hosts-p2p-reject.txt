@@ -1,0 +1,117 @@
+# ===================================================================
+# PCDN Blocklist - Redirects to 127.0.0.1
+# Based on consolidated rules for MosDNS, AdGuard Home, and others.
+# Last Updated: 2025-10-04
+# ===================================================================
+
+# Common PCDN & CDN
+127.0.0.1 bsccdn.net
+127.0.0.1 bsclink.cn
+127.0.0.1 bsgslb.cn
+127.0.0.1 gjfzpt.cn
+127.0.0.1 ietheivaicai.com
+127.0.0.1 jomodns.cn
+127.0.0.1 kuiniuca.com
+127.0.0.1 nexusedgeio.com
+127.0.0.1 onethingpcs.com
+127.0.0.1 pkoplink.com
+127.0.0.1 pplive-p2p.com
+127.0.0.1 saxysec.com
+127.0.0.1 szbdyd.com
+127.0.0.1 uhabo.com
+127.0.0.1 xycdn.com
+127.0.0.1 yfcloud.com
+127.0.0.1 pcdn.yximgs.com
+127.0.0.1 kspcdn.com
+127.0.0.1 ws-p2p.com
+
+# iQIYI (爱奇艺)
+127.0.0.1 data-qvs.iqiyi.com
+127.0.0.1 m-pcdn-info.iqiyi.com
+127.0.0.1 m-pcdn-info.is.iqiyi.com
+127.0.0.1 pcdn-ali.iqiyi.com
+127.0.0.1 pcdn-bj.iqiyi.com
+127.0.0.1 pcdn-clients.iqiyi.com
+127.0.0.1 pcdn-dispatch.iqiyi.com
+127.0.0.1 pcdn.iqiyi.com
+127.0.0.1 tpa-hcdn.iqiyi.com
+
+# Alibaba (Youku, etc. - 优酷)
+127.0.0.1 acs.youku.com
+127.0.0.1 cibn-pcdn.youku.com
+127.0.0.1 p2p.youku.com
+127.0.0.1 pcdn-ali.youku.com
+127.0.0.1 pcdn.livelive.cn
+127.0.0.1 pcdn.volcvideo.com
+127.0.0.1 pcdn.youku.com
+
+# Tencent (腾讯)
+127.0.0.1 musicps.p2p.qq.com
+127.0.0.1 p.tencentmusic.com
+127.0.0.1 p2p.l.qq.com
+127.0.0.1 p2p.qq.com
+127.0.0.1 p2p.vod.v.qq.com
+127.0.0.1 p2ptun.qq.com
+127.0.0.1 p2pupdate.gamedl.qq.com
+127.0.0.1 p2pupgrade.gamedl.qq.com
+127.0.0.1 pcdn-a.l.qq.com
+127.0.0.1 pcdn-rt.l.qq.com
+127.0.0.1 pcdn.l.qq.com
+127.0.0.1 twns.p2ptun.qq.com
+127.0.0.1 vlivep2p.tc.qq.com
+
+# Bilibili (B站)
+127.0.0.1 mcdn.bilivideo.cn
+127.0.0.1 p2p.bilibili.com
+127.0.0.1 pcdn.bilibili.com
+127.0.0.1 upos-bstar-pcdn.bilivideo.com
+127.0.0.1 upos-sz-pcdn.bilivideo.com
+
+# Xunlei (迅雷)
+127.0.0.1 down.sandai.net
+127.0.0.1 hub.p2p.xunlei.com
+127.0.0.1 p2p.xunlei.com
+127.0.0.1 pcdn.cloud.xunlei.com
+
+# Baidu (百度)
+127.0.0.1 d.pcs.baidu.com
+127.0.0.1 p.bokecc.com
+127.0.0.1 p2p.baidupcs.com
+
+# Douyu / Huya (斗鱼 / 虎牙)
+127.0.0.1 dyp2p-ali.douyucdn.cn
+127.0.0.1 dyp2p-hw.douyucdn.cn
+127.0.0.1 p2p-ali.douyucdn.cn
+127.0.0.1 p2p.huya.com
+127.0.0.1 p2pchunk-hw.douyucdn.cn
+127.0.0.1 p2pchunk-table.douyucdn.cn
+127.0.0.1 p2pchunk-ws.douyucdn.cn
+127.0.0.1 p2perrorlog.douyucdn.cn
+127.0.0.1 p2plive-ali.douyucdn.cn
+127.0.0.1 p2plive-ws.douyucdn.cn
+127.0.0.1 p2plog.douyucdn.cn
+127.0.0.1 p2pvod-ws.douyucdn.cn
+127.0.0.1 stun.douyucdn.cn
+127.0.0.1 stun.hitv.com
+127.0.0.1 stun1.douyucdn.cn
+
+# Other Video/Audio Platforms
+127.0.0.1 pcdn.xmcdn.com
+127.0.0.1 pcdn.ksyun.com
+127.0.0.1 pcdn.mgtv.com
+127.0.0.1 p2p.wasu.cn
+127.0.0.1 pcdn.wasu.cn
+127.0.0.1 p2p.cctv.cn
+
+# Gaming
+127.0.0.1 p2p.wanmei.com
+
+# Smart Devices (IoT)
+127.0.0.1 gw.smart.jd.com
+127.0.0.1 router-app-api.jd.com
+127.0.0.1 miwifi.com
+127.0.0.1 pandora.xiaomi.com
+127.0.0.1 p2p.mi.com
+127.0.0.1 data.mistat.xiaomi.com
+
+# ================= End of PCDN Blocklist ========================
