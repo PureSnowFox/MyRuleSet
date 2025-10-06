@@ -3,11 +3,17 @@ payload:
   - GEOSITE,youtube
   - GEOSITE,java
   - GEOSITE,category-container
+  - GEOSITE,bangumi
   - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-SUFFIX,nixos.org
   - DOMAIN-SUFFIX,imgg.dev
   - DOMAIN-SUFFIX,maa-ota.annangela.cn
   - DOMAIN-SUFFIX,bilibili.tv
+  - DOMAIN-SUFFIX,mikanime.tv
+  - DOMAIN-SUFFIX,ffzyread1.com
+  - DOMAIN-SUFFIX,dytt-cine.com
+  - DOMAIN-SUFFIX,xfdm.pro
+  - DOMAIN-SUFFIX,gugu3.com
   - DOMAIN-SUFFIX,mius.uk
   - DOMAIN-SUFFIX,123456.al
   - DOMAIN-SUFFIX,i.pximg.net
