@@ -5,6 +5,7 @@ payload:
   - GEOSITE,category-container
   - GEOSITE,bangumi
   - DOMAIN-SUFFIX,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,pytorch.org
   - DOMAIN-SUFFIX,nixos.org
   - DOMAIN-SUFFIX,imgg.dev
   - DOMAIN-SUFFIX,maa-ota.annangela.cn
