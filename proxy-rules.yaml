@@ -7,6 +7,7 @@ payload:
   - GEOSITE,github
   - GEOIP,telegram,no-resolve
   - DOMAIN-SUFFIX,mail.045555.xyz
+  - DOMAIN-SUFFIX,radar.cloudflare.com
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,redotpay.com
   - DOMAIN-SUFFIX,steamstatic.com
