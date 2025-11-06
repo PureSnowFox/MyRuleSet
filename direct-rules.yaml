@@ -26,7 +26,7 @@ payload:
   - DOMAIN-SUFFIX,thehelldiversgame.com
   - DOMAIN-SUFFIX,h-e.top
   - DOMAIN-SUFFIX,qzz.io
-  - DOMAIN-SUFFIX,linux.do
+  # - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,lilyemby.my
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,7777777.buzz
