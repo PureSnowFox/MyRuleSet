@@ -16,6 +16,7 @@ payload:
   - GEOSITE,steam@cn
   - DOMAIN-REGEX,^stun.*
   - DOMAIN-REGEX,mtalk+.google.com
+  - DOMAIN-SUFFIX,cloudflare-gateway.com
   - DOMAIN-SUFFIX,seayoo.io
   - DOMAIN-SUFFIX,seayoo.com
   - DOMAIN-SUFFIX,he.net
