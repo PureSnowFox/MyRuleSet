@@ -12,9 +12,6 @@ payload:
   - DOMAIN-SUFFIX,onethingpcs.com
   - DOMAIN-SUFFIX,jomodns.cn
   - DOMAIN-SUFFIX,p2p.huya.com
-  - DOMAIN,stun.douyucdn.cn
-  - DOMAIN,stun.hitv.com
-  - DOMAIN,stun1.douyucdn.cn
   - DOMAIN-SUFFIX,mcdn.bilivideo.cn
   - DOMAIN-SUFFIX,mcdn.bilivideo.com
   - DOMAIN-SUFFIX,tpa-hcdn.iqiyi.com
@@ -24,3 +21,6 @@ payload:
   - DOMAIN-REGEX,.*p2p.*douyucdn\.cn
   - DOMAIN-REGEX,.*p2p.*qq\.com
   - DOMAIN,pcdn.yximgs.com
+  - DOMAIN,stun.douyucdn.cn
+  - DOMAIN,stun.hitv.com
+  - DOMAIN,stun1.douyucdn.cn
