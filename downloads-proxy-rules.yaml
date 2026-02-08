@@ -35,3 +35,4 @@ payload:
   - DOMAIN-SUFFIX,code.visualstudio.com
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,download.microsoft.com
+  - DOMAIN-SUFFIX,kemono.cr
