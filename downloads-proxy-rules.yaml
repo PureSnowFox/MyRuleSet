@@ -36,3 +36,4 @@ payload:
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,download.microsoft.com
   - DOMAIN-SUFFIX,kemono.cr
+  - IN-PORT,7893
