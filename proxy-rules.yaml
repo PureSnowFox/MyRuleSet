@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,ipaddresss.com
   - DOMAIN-SUFFIX,groq.com
+  - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
