@@ -6,6 +6,8 @@ payload:
   - GEOSITE,bangumi
   - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-SUFFIX,pytorch.org
+  - DOMAIN-SUFFIX,drivers.amd.com
+  - DOMAIN-SUFFIX,download.amd.com
   - DOMAIN-SUFFIX,nixos.org
   - DOMAIN-SUFFIX,imgg.dev
   - DOMAIN-SUFFIX,maa-ota.annangela.cn
