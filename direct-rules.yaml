@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflare-gateway.com
   - DOMAIN-SUFFIX,seayoo.io
   - DOMAIN-SUFFIX,seayoo.com
+  - DOMAIN-SUFFIX,docker.1panel.live
   - DOMAIN-SUFFIX,he.net
   - DOMAIN-SUFFIX,tunnelbroker.net
   - DOMAIN-SUFFIX,maa.plus
