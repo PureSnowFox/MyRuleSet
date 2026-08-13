@@ -1,5 +1,7 @@
 payload:
   - AND,((DST-PORT,443),(NETWORK,UDP))
+  - DOMAIN-SUFFIX,ntp.msn.com
+  - DOMAIN-SUFFIX,ntp.msn.cn
   # PCDN
   - DOMAIN-SUFFIX,gjfzpt.cn
   - DOMAIN-SUFFIX,szbdyd.com
