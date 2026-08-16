@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,scaleway.com
   - DOMAIN-SUFFIX,msi.com
   - DOMAIN-SUFFIX,public-ws-ubiservices.ubi.com
+  - DOMAIN-SUFFIX,steamconnecttest.com
   # - DOMAIN-SUFFIX,steam-chat.com
   # - DOMAIN-SUFFIX,steamgames.com
   # - DOMAIN-SUFFIX,steamusercontent.com
