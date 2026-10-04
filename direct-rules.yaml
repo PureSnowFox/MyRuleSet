@@ -1,6 +1,7 @@
 payload:
   - GEOSITE,cn
   - GEOSITE,private
+  - GEOSITE,tailscale
   - GEOSITE,paypal
   - GEOSITE,onedrive
   - GEOSITE,azure
