@@ -64,6 +64,8 @@ payload:
   # - DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
   # - DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
   # - DOMAIN-SUFFIX,steam.cdn.webra.ru
+  # RustDesk 信令/打洞/中继标准端口段 (TCP & UDP 21114-21119)
+  - DST-PORT,21114-21119
   - DST-PORT,9993,DIRECT
   - SRC-PORT,9993,DIRECT
   - DST-PORT,3470-3480/27000-27100,DIRECT
